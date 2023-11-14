@@ -14,6 +14,7 @@
 		75F411352B03FC8000A6D84D /* FruitsData.txt in Resources */ = {isa = PBXBuildFile; fileRef = 75F411342B03FC8000A6D84D /* FruitsData.txt */; };
 		75F411392B04005E00A6D84D /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F411382B04005E00A6D84D /* FruitCardView.swift */; };
 		75F4113B2B0404F400A6D84D /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F4113A2B0404F400A6D84D /* StartButtonView.swift */; };
+		75F4113D2B04067F00A6D84D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F4113C2B04067F00A6D84D /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		75F411342B03FC8000A6D84D /* FruitsData.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FruitsData.txt; sourceTree = "<group>"; };
 		75F411382B04005E00A6D84D /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		75F4113A2B0404F400A6D84D /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		75F4113C2B04067F00A6D84D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			children = (
 				75F411252B03FBF400A6D84D /* FruitsApp.swift */,
 				75F411272B03FBF400A6D84D /* ContentView.swift */,
+				75F4113C2B04067F00A6D84D /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				75F411392B04005E00A6D84D /* FruitCardView.swift in Sources */,
 				75F4113B2B0404F400A6D84D /* StartButtonView.swift in Sources */,
 				75F411282B03FBF400A6D84D /* ContentView.swift in Sources */,
+				75F4113D2B04067F00A6D84D /* OnboardingView.swift in Sources */,
 				75F411262B03FBF400A6D84D /* FruitsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
